@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/logOutButton"
+        android:title="@string/logout"
+        android:enabled="true"
+        />
+
+    <item
+        android:id="@+id/settingButton"
+        android:title="@string/setting"
+        android:enabled="true"
+        />
+
+    <item
+        android:id="@+id/gridButton"
+        android:title="@string/grid"
+        android:enabled="true"
+        />
+
+    <item
+        android:id="@+id/recycleButton"
+        android:title="@string/recycle"
+        android:enabled="true"
+        />
+
+    <item
+        android:id="@+id/uploadImage"
+        android:title="@string/upload"
+        android:enabled="true"
+        />
+
+    <item
+        android:id="@+id/viewMovie"
+        android:title="@string/movie"
+        android:enabled="true"
+        />
+
+    <item
+        android:id="@+id/viewMap"
+        android:title="@string/map"
+        android:enabled="true"
+        />
+</menu>

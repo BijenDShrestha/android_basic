@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.33645833333333336" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.128" />
+        <entry key="app/src/main/res/layout/activity_category.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_grid.xml" value="0.3029891304347826" />
+        <entry key="app/src/main/res/layout/activity_image_pick.xml" value="0.3029891304347826" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.3029891304347826" />
+        <entry key="app/src/main/res/layout/activity_movie.xml" value="0.3029891304347826" />
+        <entry key="app/src/main/res/layout/activity_recycle.xml" value="0.27635186236837633" />
+        <entry key="app/src/main/res/layout/activity_recycle_adapter.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_setting.xml" value="0.2647774074388587" />
+        <entry key="app/src/main/res/layout/adapter_product.xml" value="0.2308384770932405" />
+        <entry key="app/src/main/res/layout/adapter_recycle_product.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/frame.xml" value="0.3029891304347826" />
+        <entry key="app/src/main/res/layout/img_dialogue.xml" value="0.33509820025900133" />
+        <entry key="app/src/main/res/layout/layout_divider.xml" value="0.3029891304347826" />
+        <entry key="app/src/main/res/layout/layout_linear.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/layout_login.xml" value="0.3262069702148438" />
+        <entry key="app/src/main/res/layout/layout_relative.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/layout_sign_up.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/movie_adapter.xml" value="0.23263244628906252" />
+        <entry key="app/src/main/res/layout/recycle_product_adapter.xml" value="0.2555267333984375" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.2953125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.128" />
+        <entry key="app/src/main/res/xml/file_path.xml" value="0.16356968215158924" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

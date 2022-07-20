@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">demoApplication</string>
+    <string name="welcome">Welcome To App Development!</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="or_sign_up"><u>Or SignUp</u></string>
+    <string name="sign_up">Join Now</string>
+    <string name="create_account">Create Account</string>
+    <string name="cancel">Cancel</string>
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_remember_me">Remember me</string>
+    <string name="text_do_not_remember_me">Do not Remember me</string>
+    <string name="text_first_name">First Name</string>
+    <string name="text_last_name">Last Name</string>
+    <string name="text_gender">Gender</string>
+    <string name="text_gender_male">Male</string>
+    <string name="text_gender_female">Female</string>
+    <string name="text_gender_other">Other</string>
+    <string name="text_contact_number">Contact Number</string>
+    <string name="text_email">Email</string>
+    <string name="text_confirm_password">Confirm Password</string>
+    <string name="text_terms_and_condition">Accept terms and conditions</string>
+
+    <string name="search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Log Out</string>
+    <string name="setting">Setting</string>
+    <string name="grid">GridView</string>
+    <string name="recycle">Recycle</string>
+    <string name="recycleView">Recycle View</string>
+    <string name="text_upload_img">Upload Image</string>
+    <string name="text_take_img">Take Photo</string>
+    <string name="text_choose_from_gallery">Choose from gallery</string>
+    <string name="upload">Upload</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="movie">Movie List</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map">Google Map</string>
+
+
+</resources>
