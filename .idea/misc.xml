@@ -11,6 +11,9 @@
         <entry key="app/src/main/res/layout/activity_image_pick.xml" value="0.3029891304347826" />
         <entry key="app/src/main/res/layout/activity_maps.xml" value="0.3029891304347826" />
         <entry key="app/src/main/res/layout/activity_movie.xml" value="0.3029891304347826" />
+        <entry key="app/src/main/res/layout/activity_question_one.xml" value="0.20758507770040757" />
+        <entry key="app/src/main/res/layout/activity_question_one_part_two.xml" value="0.3029891304347826" />
+        <entry key="app/src/main/res/layout/activity_question_three.xml" value="0.3029891304347826" />
         <entry key="app/src/main/res/layout/activity_recycle.xml" value="0.27635186236837633" />
         <entry key="app/src/main/res/layout/activity_recycle_adapter.xml" value="0.3098958333333333" />
         <entry key="app/src/main/res/layout/activity_setting.xml" value="0.2647774074388587" />

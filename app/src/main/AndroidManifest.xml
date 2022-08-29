@@ -27,7 +27,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DemoApplication"
         android:usesCleartextTraffic="true">
-
+        <activity
+            android:name=".activity.QuestionThreeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.QuestionOnePartTwoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activity.QuestionOneActivity"
+            android:exported="false" />
         <!--
              TODO: Before you run your application, you need a Google Maps API key.
 

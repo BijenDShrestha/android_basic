@@ -114,6 +114,11 @@ public class DashboardActivity extends AppCompatActivity {
                 startActivity(newIntentViewMap);
                 return true;
 
+            case(R.id.QuestionOne):
+                Intent questionOne = new Intent(DashboardActivity.this, QuestionOneActivity.class);
+                startActivity(questionOne);
+                return true;
+
             default:
                 return false;
 
